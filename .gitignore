@@ -1,0 +1,8 @@
+/gossipnet_config.json
+/Library/
+/Logs/
+/UserSettings/
+/Temp/
+/obj/
+*.csproj
+*.sln

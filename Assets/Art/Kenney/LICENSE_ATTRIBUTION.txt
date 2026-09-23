@@ -1,0 +1,7 @@
+Art assets in this folder are derived from Kenney.nl asset packs (CC0 1.0 / Public Domain):
+- Tiny Town (https://kenney.nl/assets/tiny-town)
+- Roguelike/RPG Pack (https://kenney.nl/assets/roguelike-rpg-pack)
+- Roguelike Characters (https://kenney.nl/assets/roguelike-characters)
+
+CC0: free to use in personal, educational, and commercial projects.
+Written permission not required; crediting Kenney is appreciated but optional.
